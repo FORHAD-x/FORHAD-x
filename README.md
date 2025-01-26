@@ -1,5 +1,5 @@
 <h1 align="center ">Hi 👋, I'm Khorshed Alam Forhad</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> frontend developer</h3>
 
 <p align="left">
 </p>
@@ -33,8 +33,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forhad-x&show_icons=true&locale=en&layout=compact" alt="forhad-x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forhad-x&show_icons=true&locale=en" alt="forhad-x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forhad-x&" alt="forhad-x" /></p>
