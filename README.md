@@ -1,5 +1,5 @@
 <h1 align="center ">Hi 👋, I'm Khorshed Alam Forhad</h1>
-<h3 align="center"> frontend developer</h3>
+<h2 align="center"> frontend developer</h2>
 
 <p align="left">
 </p>
