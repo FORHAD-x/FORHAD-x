@@ -40,10 +40,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/FORHAD-x/FORHAD-x/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/FORHAD-x/FORHAD-x/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -104,13 +100,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/FORHAD-x/FORHAD-x/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <p align="left">Hello World!!</p>
 
